@@ -1,0 +1,206 @@
+{
+  "yogasanas": [
+    {
+      "id": "mountain-pose",
+      "name": "Mountain Pose",
+      "benefit": "Improves posture and balance while strengthening the legs and core.",
+      "steps": [
+        "Stand with feet together, arms at sides",
+        "Distribute weight evenly across both feet",
+        "Engage thigh muscles and lift kneecaps",
+        "Roll shoulders back and down",
+        "Breathe deeply for 30-60 seconds"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+      "suggestedDuration": 30
+    },
+    
+   {
+    "id": "tree-pose",
+    "name": "Tree Pose (Vrikshasana)",
+    "benefit": "Enhances balance, stability, and concentration.",
+    "steps": [
+      "Start in Mountain Pose.",
+      "Shift weight to one foot and raise the other foot to inner thigh or calf.",
+      "Bring palms together at chest or overhead.",
+      "Hold, then switch sides."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/4938111/pexels-photo-4938111.jpeg",
+    "suggestedDuration": 30
+    
+   },
+   {
+    "id": "childs-pose",
+    "name": "Child's Pose (Balasana)",
+    "benefit": "Calms the mind and gently stretches back and hips.",
+    "steps": [
+      "Kneel and sit back on your heels.",
+      "Lean forward, extend arms, and rest forehead on the mat.",
+      "Breathe deeply and relax the body.",
+      "Release after holding."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/4498168/pexels-photo-4498168.jpeg",
+    "suggestedDuration": 45
+   },
+   { 
+    "id": "cat-cow-pose",
+    "name": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+    "benefit": "Improves spinal mobility and relieves back tension.",
+    "steps": [
+      "Come to hands and knees (tabletop).",
+      "Inhale and arch your back (Cow).",
+      "Exhale and round your spine (Cat).",
+      "Flow between these movements slowly."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/8436701/pexels-photo-8436701.jpeg",
+    "suggestedDuration": 30
+   },
+   {
+    "id": "downward-facing-dog",
+    "name": "Downward-Facing Dog (Adho Mukha Svanasana)",
+    "benefit": "Stretches the whole body and strengthens arms and legs.",
+    "steps": [
+      "Start on hands and knees.",
+      "Lift hips up and back into an inverted V shape.",
+      "Press heels toward the floor and engage your core.",
+      "Breathe and hold."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/4534689/pexels-photo-4534689.jpeg",
+    "suggestedDuration": 40
+   },
+   {
+    "id": "cobra-pose",
+    "name": "Cobra Pose (Bhujangasana)",
+    "benefit": "Strengthens the back and opens the chest.",
+    "steps": [
+      "Lie face down with legs extended.",
+      "Place palms under shoulders.",
+      "Inhale and lift chest using back muscles.",
+      "Keep hips grounded and gaze forward."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/3823076/pexels-photo-3823076.jpeg",
+    "suggestedDuration": 30
+   },
+   {
+    "id": "bridge-pose",
+    "name": "Bridge Pose (Setu Bandhasana)",
+    "benefit": "Strengthens the back, glutes, and opens the chest.",
+    "steps": [
+      "Lie on your back with knees bent.",
+      "Feet hip-width apart and arms by your sides.",
+      "Press feet into the floor and lift hips up.",
+      "Hold and then slowly lower."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/8713809/pexels-photo-8713809.jpeg",
+    "suggestedDuration": 40
+   },
+   {
+    "id": "corpse-pose",
+    "name": "Corpse Pose (Savasana)",
+    "benefit": "Promotes deep relaxation and stress relief.",
+    "steps": [
+      "Lie flat on your back.",
+      "Spread legs slightly apart.",
+      "Relax arms by your sides, palms up.",
+      "Close eyes and breathe calmly."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/3822647/pexels-photo-3822647.jpeg",
+    "suggestedDuration": 60
+   },
+   {
+    "id": "warrior-i",
+    "name": "Warrior I (Virabhadrasana I)",
+    "benefit": "Builds leg strength, balance, and focus.",
+    "steps": [
+      "Step one foot forward into a lunge.",
+      "Angle the back foot slightly outward.",
+      "Raise arms overhead with palms facing each other.",
+      "Bend front knee and hold."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/8534767/pexels-photo-8534767.jpeg",
+    "suggestedDuration": 35
+   },
+   {
+    "id": "warrior-ii",
+    "name": "Warrior II (Virabhadrasana II)",
+    "benefit": "Strengthens legs, opens hips, and improves stamina.",
+    "steps": [
+      "From Mountain Pose, step feet wide apart.",
+      "Turn front foot forward and back foot slightly in.",
+      "Raise arms parallel to the floor.",
+      "Bend front knee and gaze over front hand."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/5928341/pexels-photo-5928341.jpeg",
+    "suggestedDuration": 35
+   },
+   {
+    "id": "seated-forward-bend",
+    "name": "Seated Forward Bend (Paschimottanasana)",
+    "benefit": "Stretches the back and hamstrings while calming the mind.",
+    "steps": [
+      "Sit with legs extended.",
+      "Inhale, lengthen through the spine.",
+      "Exhale and fold forward toward your feet.",
+      "Hold and breathe steady."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/3822191/pexels-photo-3822191.jpeg",
+    "suggestedDuration": 45
+   },
+   {
+    "id": "easy-pose",
+    "name": "Easy Pose (Sukhasana)",
+    "benefit": "Encourages relaxed seated posture and improves focus.",
+    "steps": [
+      "Sit cross-legged on the floor.",
+      "Rest hands on knees.",
+      "Lengthen your spine and relax shoulders.",
+      "Breathe deeply and hold."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/5928631/pexels-photo-5928631.jpeg",
+    "suggestedDuration": 45
+   },
+   {
+    "id": "high-lunge-pose",
+    "name": "High Lunge (Anjaneyasana)",
+    "benefit": "Stretches hip flexors and strengthens legs.",
+    "steps": [
+      "Step one foot forward into a lunge.",
+      "Lower back knee slightly (optional).",
+      "Raise arms overhead.",
+      "Keep hips square and hold."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/7319694/pexels-photo-7319694.jpeg",
+    "suggestedDuration": 30
+   },
+   {
+    "id": "child-twist-pose",
+    "name": "Reclined Spinal Twist (Supta Matsyendrasana)",
+    "benefit": "Releases tension in the back and improves spinal mobility.",
+    "steps": [
+      "Lie on your back.",
+      "Bring one knee into your chest.",
+      "Cross it over to the opposite side.",
+      "Extend arms outward and breathe."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/5928633/pexels-photo-5928633.jpeg",
+    "suggestedDuration": 40
+   },
+   { 
+    "id": "seated-side-stretch-pose",
+    "name": "Seated Side Stretch (Parsva Sukhasana)",
+    "benefit": "Stretches the sides of the body and improves breathing.",
+    "steps": [
+      "Sit cross-legged.",
+      "Reach one arm overhead and lean to the opposite side.",
+      "Keep hips grounded and breathe deep.",
+      "Switch sides."
+    ],
+    "imageUrl": "https://images.pexels.com/photos/6293243/pexels-photo-6293243.jpeg",
+    "suggestedDuration": 30
+   }
+
+]
+
+    
+  
+}
