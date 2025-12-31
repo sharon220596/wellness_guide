@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* Mode selector container */
+.mode-selector {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+/* Mode selector buttons */
+.mode-selector button {
+  padding: 10px 16px;
+  border-radius: 6px;
+  border: none;
+  background-color: #e5e7eb; /* neutral light gray */
+  color: #111827;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+/* Active mode button */
+.mode-selector button.active {
+  background-color: #2563eb; /* blue */
+  color: white;
+}
+
+/* Yogasana card */
+.yogasana-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 16px;
+  max-width: 300px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Yogasana image */
+.yogasana-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Yogasana title */
+.yogasana-card h3 {
+  margin: 12px 0 6px;
+  font-size: 1.1rem;
+  color: #111827;
+}
+
+/* Yogasana description */
+.yogasana-card p {
+  margin: 0;
+  color: #4b5563;
+  font-size: 0.95rem;
+}
